@@ -1,0 +1,14 @@
+import React ,{ Component } from "react";
+import styles from '../header.module.css'
+
+class Blog extends Component{
+    
+    render(){
+      
+        return(
+            <a className={`${styles.nav} ${styles.container} ${styles.font}`}>Blog</a>
+        )
+    }
+}
+ 
+export default Blog

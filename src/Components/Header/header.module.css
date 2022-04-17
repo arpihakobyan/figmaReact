@@ -1,0 +1,50 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+ padding: 30px;
+ 
+}
+.nav{
+  margin-right: 40px;
+  cursor: pointer;
+ 
+}
+
+.font {
+  font-family: 'Azeret Mono', 'cursive';
+  font-size: 20px;
+}
+.input {
+  margin-top: 30px;
+  width: 280px;
+ border: none;
+  border-radius: 40px;
+  height: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 14px;
+  padding: 20px;
+  background-color: 
+  rgba(243, 242, 242, 1);
+  cursor: pointer;
+
+}
+.cart{
+  
+  cursor: pointer;
+  margin-left: 25px;
+ 
+}
+.cart1{
+  /* display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; */
+ 
+
+  cursor: pointer;
+  margin-left: 30px; 
+ 
+}

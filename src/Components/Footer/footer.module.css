@@ -1,0 +1,29 @@
+.hr{
+    width: 850px;
+}
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    background-color: rgba(243, 242, 242, 1);
+}
+/* .mainContainer {
+    
+    
+    background-color: rgba(243, 242, 242, 1);
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+
+
+} */
+.FootContainer{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+    justify-content:space-between;
+}
